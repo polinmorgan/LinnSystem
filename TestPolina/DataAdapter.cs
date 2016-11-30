@@ -61,6 +61,7 @@ namespace TestPolina
                        id = (int)o;
                    }
                    Con.Close();
+                   return id;
                }
            }
           }
