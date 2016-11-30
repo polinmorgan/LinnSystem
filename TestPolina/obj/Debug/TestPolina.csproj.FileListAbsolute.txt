@@ -1,0 +1,6 @@
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\bin\Debug\TestPolina.exe.config
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\obj\Debug\TestPolina.csprojResolveAssemblyReference.cache
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\bin\Debug\TestPolina.exe
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\bin\Debug\TestPolina.pdb
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\obj\Debug\TestPolina.exe
+c:\users\polina\documents\visual studio 2013\Projects\TestPolina\TestPolina\obj\Debug\TestPolina.pdb
